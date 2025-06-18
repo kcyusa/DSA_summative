@@ -202,6 +202,9 @@ void compressFile(const char *filename)
     fseek(out, 0L, SEEK_END);
     comp_size = ftell(out);
     fclose(out);
+
+    printf("Original size: %ld bytes\n", orig_size);
+    printf("Compressed size: %ld bytes\n", comp_size);
 }
 
 int main()
