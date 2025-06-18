@@ -1,0 +1,71 @@
+Patient ID: P12345678
+Name: John Doe
+Age: 45
+Gender: Male
+Blood Group: O+
+Allergies: Penicillin
+
+Diagnosis:
+Patient is experiencing shortness of breath and chest pain. Diagnosed with mild angina.
+
+Prescriptions:
+- Aspirin 75mg once daily
+- Nitroglycerin 0.4mg sublingual as needed
+- Atorvastatin 20mg at night
+
+Lab Results:
+- ECG: Abnormal ST elevation
+- Blood Pressure: 140/90 mmHg
+- Cholesterol: LDL 170 mg/dL, HDL 35 mg/dL
+- Troponin: Elevated
+
+Doctor's Notes:
+Patient advised to avoid strenuous activity. Scheduled for cardiac stress test next week. Maintain low-fat diet and follow-up in 7 days.
+
+--------------------------------------------
+
+Patient ID: P87654321
+Name: Jane Smith
+Age: 32
+Gender: Female
+Blood Group: A-
+Allergies: None
+
+Diagnosis:
+Patient presents with persistent headaches and nausea. MRI indicates mild sinusitis.
+
+Prescriptions:
+- Ibuprofen 400mg every 8 hours
+- Saline nasal spray twice daily
+
+Lab Results:
+- Blood Pressure: 118/76 mmHg
+- CBC: Normal
+- MRI: Mild sinus inflammation
+
+Doctor's Notes:
+Recommend increased hydration and rest. Follow up in 10 days for reevaluation.
+
+--------------------------------------------
+
+Patient ID: P11223344
+Name: Michael Johnson
+Age: 60
+Gender: Male
+Blood Group: B+
+Allergies: Sulfa Drugs
+
+Diagnosis:
+Patient complains of fatigue and increased thirst. Diagnosed with Type 2 Diabetes.
+
+Prescriptions:
+- Metformin 500mg twice daily
+- Glipizide 5mg once daily before breakfast
+
+Lab Results:
+- Fasting Blood Sugar: 155 mg/dL
+- HbA1c: 7.2%
+- Blood Pressure: 135/85 mmHg
+
+Doctor's Notes:
+Advised dietary changes and regular exercise. Monitor blood sugar levels daily. Return in 14 days.
